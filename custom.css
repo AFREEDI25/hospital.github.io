@@ -1,4 +1,7 @@
-
+/* why choose
+doctor slider
+surgery availables
+services : ambulance */
 *{
     margin: 0%;
     padding: 0%;
@@ -17,6 +20,7 @@ nav{
     width: 100%;
     background-color: rgb(9, 102, 102);
     color: white;
+    z-index: 1;
 }
 ul {
     display: flex;
